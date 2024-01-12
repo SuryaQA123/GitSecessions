@@ -2,7 +2,7 @@ package Demo;
 
 public class Amezon {
 	public static void main(String[] args) {
-
+System.out.println("this is from GIT X");
 		funA();
 		funC();
 		Amezon a1 = new Amezon();
