@@ -17,6 +17,7 @@ public void funB() {
 	
 	public static  void funC() {
 		System.out.println("Fun C invoked Successfully");
+		funA();
 	}
 	public static  void funD() {
 		System.out.println("Fun C invoked Successfully");
