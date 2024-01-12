@@ -7,4 +7,9 @@ public class Amezon {
 public void funB() {
 	System.out.println("Fun B");
 }
+	public static void funA() {
+		
+	}
+
+
 }
